@@ -2,7 +2,7 @@
 
 Abstract
 ```
-It can be difficult for any teacher to introduce technical concepts to students who have
+   It can be difficult for any teacher to introduce technical concepts to students who have
 little or no technical expertise. Gamification is a term that has lately been used to de-
 scribe a strategy for motivating students that involves incorporating various game-based
 strategies into instructional modules. This idea has led to the discovery that capture
