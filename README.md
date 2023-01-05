@@ -1,9 +1,7 @@
 # Learn-Ethical-Hacking-by-Solving-Real-Security-Challenges
 
-```
 Abstract
 ```
-
 It can be difficult for any teacher to introduce technical concepts to students who have
 little or no technical expertise. Gamification is a term that has lately been used to de-
 scribe a strategy for motivating students that involves incorporating various game-based
@@ -18,3 +16,5 @@ these difficulties together in a competitive setting was remarkably successful a
 just introducing kids to these concepts but also inspiring continuing learning after the
 camps concluded. This Project will evaluate the effort’s accomplishments as well as the
 drawbacks identified by applying this method.
+
+```
